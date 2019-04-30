@@ -3,9 +3,13 @@ Cette extension pour navigateur tape automatiquement votre identifiant, mot de p
 
 ## Comment utiliser l'extension ?
 Après l'installation de l'extension, vous verrez apparaitre une icône avec le logo du Pôle Emploi en haut à droite de votre écran comme ceci :
+
 [Capture d'écran après installation](https://raw.githubusercontent.com/theo546/Pole-Emploi_Autologin/master/screenshot/post_install.png)
+
 Cliquez dessus afin d'ouvrir le panneau de configuration, puis remplissez les informations demandées telles que votre identifiant, votre mot de passe et votre code postal.
+
 Voici a quoi devrait ressembler le panneau de configuration une fois configuré :
+
 [Panneau de configuration](https://raw.githubusercontent.com/theo546/Pole-Emploi_Autologin/master/screenshot/configuration.png)
 
 ## Comment "compiler" depuis la source ?
@@ -16,12 +20,19 @@ La méthode de "compilation" a été testé uniquement sous Linux et nécessite 
  - Un terminal
 
 Une fois que tout est prêt, ouvrez le terminal puis taper :
+
 `git clone https://github.com/theo546/Pole-Emploi_Autologin.git`
+
 Une fois que le projet a été cloner, tapez :
+
 `cd Pole-Emploi_Autologin`
+
 Et finalement :
+
 `sh build-firefox.sh` pour "compiler" pour Firefox ou
+
 `sh build-chrome.sh` pour "compiler" pour Google Chrome / Chromium.
+
 
 Vous pouvez des à présent importer l'extension dans votre navigateur.
 
