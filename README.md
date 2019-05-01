@@ -4,13 +4,13 @@ Cette extension pour navigateur tape automatiquement votre identifiant, mot de p
 ## Comment utiliser l'extension ?
 Après l'installation de l'extension, vous verrez apparaitre une icône avec le logo du Pôle Emploi en haut à droite de votre écran comme ceci :
 
-[Capture d'écran après installation](https://raw.githubusercontent.com/theo546/Pole-Emploi_Autologin/master/screenshot/post_install.png)
+![Capture d'écran après installation](https://raw.githubusercontent.com/theo546/Pole-Emploi_Autologin/master/screenshot/post_install.png)
 
 Cliquez dessus afin d'ouvrir le panneau de configuration, puis remplissez les informations demandées telles que votre identifiant, votre mot de passe et votre code postal.
 
 Voici a quoi devrait ressembler le panneau de configuration une fois configuré :
 
-[Panneau de configuration](https://raw.githubusercontent.com/theo546/Pole-Emploi_Autologin/master/screenshot/configuration.png)
+![Panneau de configuration](https://raw.githubusercontent.com/theo546/Pole-Emploi_Autologin/master/screenshot/configuration.png)
 
 Félicitation, vous pouvez maintenant vous rendre sur la page de connexion de Pôle Emploi pour admirer le spectacle !
 
