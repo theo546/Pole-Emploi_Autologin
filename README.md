@@ -1,6 +1,8 @@
 # Pôle Emploi connexion automatique
 Cette extension pour navigateur tape automatiquement votre identifiant, mot de passe et code postal sur le site de Pôle Emploi.
 
+Elle est très simple d'utilisation, gratuite et open source.
+
 ## Comment utiliser l'extension ?
 Après l'installation de l'extension, vous verrez apparaitre une icône avec le logo du Pôle Emploi en haut à droite de votre écran comme ceci :
 
