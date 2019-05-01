@@ -13,8 +13,14 @@
 				text-align: center;
 			}
 			label {
-				margin-top: 4.01px;
-				float: left;
+				position: absolute;
+				left: 17.5px;
+			}
+			div {
+				margin-top: 6px;
+			}
+			input {
+				float: right;
 			}
 			@-moz-document url-prefix() {
 				label {
@@ -24,21 +30,29 @@
 				body {
 					height: 175px;
 				}
-			}
-			input {
-				float: right;
+				input {
+					margin-top: 2.5px;
+				}
 			}
 		</style>
 	</head>
 	<body>
 		<form class="center">
 			<p>Réglage de la connexion automatique à Pôle Emploi</p>
-			<label>Identifiant</label><input required type="text" maxlength=8 id="id" /><br>
-			<label>Mot de passe</label><input required type="password" minlength=6 maxlength=6 pattern="[0-9]*" id="password" /><br>
-			<label>Code postal</label><input required type="text" minlength=5 maxlength=5 pattern="[0-9]*" id="post_code" /><br>
+			<div>
+				<label>Identifiant</label><input required type="text" maxlength=8 id="id" /><br>
+			</div>
+			
+			<div>
+				<label>Mot de passe</label><input required type="password" minlength=6 maxlength=6 pattern="[0-9]*" id="password" /><br>
+			</div>
+			<div>
+				<label>Code postal</label><input required type="text" minlength=5 maxlength=5 pattern="[0-9]*" id="post_code" /><br>
+			</div>
+			
 			<br><br>
 			<button type="submit">Sauvegarder</button>
-			<span style="float: right;">1.0</span>
+			<span style="float: right;">1.0.1</span>
 		</form>
 		<script src="options.js"></script>
 	</body>

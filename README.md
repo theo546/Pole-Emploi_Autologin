@@ -12,6 +12,8 @@ Voici a quoi devrait ressembler le panneau de configuration une fois configuré 
 
 [Panneau de configuration](https://raw.githubusercontent.com/theo546/Pole-Emploi_Autologin/master/screenshot/configuration.png)
 
+Félicitation, vous pouvez maintenant vous rendre sur la page de connexion de Pôle Emploi pour admirer le spectacle !
+
 ## Comment "compiler" depuis la source ?
 La méthode de "compilation" a été testé uniquement sous Linux et nécessite les composants suivants :
 
@@ -40,4 +42,4 @@ Vous pouvez des à présent importer l'extension dans votre navigateur.
 
 Vous pouvez installer l'extension depuis les magasins d'extensions de Firefox ou de Google Chrome / Chromium.
 
-[![Firefox Add-ons Store](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://google.com) [![Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://google.com)
+[![Firefox Add-ons Store](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/en-US/firefox/addon/p%C3%B4leemploiconnexionautomatique/) [![Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/pôle-emploi-connexion-aut/hpmkaagedkdgibcindaobjflbineoced)
