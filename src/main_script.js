@@ -61,7 +61,7 @@ browser_storage_type.storage.sync.get(null, function(result) {
 						}
 					}
 					document.getElementById("submit").click();
-				}, 250);
+				}, 1500);
 				clearInterval(refreshIntervalId);
 			}
 		}

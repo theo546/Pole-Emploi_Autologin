@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Pôle Emploi connexion automatique",
 	"description": "Cette extension tape automatiquement votre identifiant, mot de passe et code postal sur le site de Pôle Emploi.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 
 	"applications": {
 		"gecko": {

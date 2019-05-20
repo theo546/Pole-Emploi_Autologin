@@ -5,13 +5,12 @@ if(isChrome) browser_storage_type = chrome;
 if(isFirefox) browser_storage_type = browser;
 
 document.addEventListener("DOMContentLoaded", function() {
-		browser_storage_type.storage.sync.get(null, function(e) {
-			document.querySelector("#id").value = atob(e.id) || "";
-			document.querySelector("#password").value = atob(e.password) || "";
-			document.querySelector("#post_code").value = atob(e.post_code) || "";
-		});
-	}
-);
+	browser_storage_type.storage.sync.get(null, function(e) {
+		document.querySelector("#id").value = atob(e.id) || "";
+		document.querySelector("#password").value = atob(e.password) || "";
+		document.querySelector("#post_code").value = atob(e.post_code) || "";
+	});
+});
 
 document.querySelector("form").addEventListener("submit", function(e) {
 	e.preventDefault();
