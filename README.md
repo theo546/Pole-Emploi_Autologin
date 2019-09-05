@@ -3,6 +3,8 @@ Cette extension pour navigateur tape automatiquement votre identifiant, mot de p
 
 Elle est très simple d'utilisation, gratuite et open source.
 
+Cependant, Pôle Emploi ayant changé le système de connexion au site, cette extension n'est désormais plus d'aucune utilité.
+
 ## Comment utiliser l'extension ?
 Après l'installation de l'extension, vous verrez apparaitre une icône avec le logo du Pôle Emploi en haut à droite de votre écran comme ceci :
 
